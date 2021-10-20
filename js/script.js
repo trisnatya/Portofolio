@@ -1,5 +1,5 @@
 
-const txtElement = ['Web Developer', 'Graphic Designer'];
+const txtElement = ['Web Developer', 'Web Developer', 'Web Developer'];
 let count = 0;
 let txtIndex = 0;
 let currentTxt = '';
