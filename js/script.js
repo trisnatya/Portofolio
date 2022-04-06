@@ -44,3 +44,6 @@ document.onkeydown = function(e){
 		}
 };
 
+console.log("")
+console.log("mau nyontek ya :D")
+console.log("")
